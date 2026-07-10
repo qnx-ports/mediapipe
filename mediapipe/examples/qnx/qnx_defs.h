@@ -28,7 +28,6 @@
 #include <vector>
 
 #include <camera/camera_api.h>
-#include <camera/camera_3a.h>
 #include <screen/screen.h>
 #include <EGL/egl.h>
 #include <EGL/eglext.h>
